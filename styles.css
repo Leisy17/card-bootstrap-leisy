@@ -47,11 +47,11 @@ body {
 }
 
 .card-body a {
-  transition: transform 0.3s ease-out;
+  transition : all 0.3s o 0.5s;
 }
 
 .card-body a:hover {
-  transform: translateY(-10px);
+  transform: scale(1.2);
 }
 
 .github-icon,
