@@ -17,8 +17,7 @@ body {
   border-radius: 24px;
 }
 
-
-.img-wrapper img {
+.card img {
   width: 100%;
   object-fit: cover;
   object-position: top;
